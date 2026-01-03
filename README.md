@@ -1,22 +1,41 @@
-<h1 align="center">Hi 👋, I'm Vatsal Negi</h1>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4FC3F7">Vatsal Negi</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=000000&center=true&vCenter=true&width=800&lines=Data+Analyst;SQL+%7C+Python+%7C+EDA;Statistics+%7C+Machine+Learning" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00C4FF&center=true&vCenter=true&width=750&lines=Data+Analyst;SQL+%7C+Python+%7C+EDA;Statistics+%7C+Machine+Learning"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-📊 MCA Student • Aspiring Data Analyst • Insight-driven mindset
+  📊 Data Analyst • Insight-driven • Analytics-focused
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=3" />
 
 ---
 
-## 🐍 Programming & Data Analysis
+## 🐍 Programming & Data Analysis (Advanced)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OOP](https://img.shields.io/badge/OOPs-4CAF50?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data_Structures-009688?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-795548?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-673AB7?style=for-the-badge)
+![Exception Handling](https://img.shields.io/badge/Exception_Handling-FF5722?style=for-the-badge)
+![Multithreading](https://img.shields.io/badge/Multi--Threading-3F51B5?style=for-the-badge)
+![Multiprocessing](https://img.shields.io/badge/Multi--Processing-009688?style=for-the-badge)
+![Concurrency](https://img.shields.io/badge/Concurrency-9C27B0?style=for-the-badge)
+
+![Memory Management](https://img.shields.io/badge/Memory_Management-795548?style=for-the-badge)
+![Garbage Collection](https://img.shields.io/badge/Garbage_Collection-607D8B?style=for-the-badge)
+![Time Complexity](https://img.shields.io/badge/Time_Complexity-673AB7?style=for-the-badge)
+![Space Complexity](https://img.shields.io/badge/Space_Complexity-512DA8?style=for-the-badge)
+![Code Optimization](https://img.shields.io/badge/Code_Optimization-2E7D32?style=for-the-badge)
+
+![Debugging](https://img.shields.io/badge/Debugging-455A64?style=for-the-badge)
+![Logging](https://img.shields.io/badge/Logging-263238?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-6A1B9A?style=for-the-badge)
+![Profiling](https://img.shields.io/badge/Profiling-00897B?style=for-the-badge)
 
 ---
 
@@ -35,8 +54,8 @@
 
 ![Statistics](https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge)
 ![Probability](https://img.shields.io/badge/Probability-009688?style=for-the-badge)
-![Descriptive Stats](https://img.shields.io/badge/Descriptive_Statistics-3F51B5?style=for-the-badge)
-![Inferential Stats](https://img.shields.io/badge/Inferential_Statistics-9C27B0?style=for-the-badge)
+![Descriptive Statistics](https://img.shields.io/badge/Descriptive_Statistics-3F51B5?style=for-the-badge)
+![Inferential Statistics](https://img.shields.io/badge/Inferential_Statistics-9C27B0?style=for-the-badge)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-795548?style=for-the-badge)
 ![Confidence Intervals](https://img.shields.io/badge/Confidence_Intervals-607D8B?style=for-the-badge)
 ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-673AB7?style=for-the-badge)
@@ -49,53 +68,29 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Joins](https://img.shields.io/badge/SQL_Joins-FF9800?style=for-the-badge)
 ![Subqueries](https://img.shields.io/badge/Subqueries-9E9E9E?style=for-the-badge)
-![CTE](https://img.shields.io/badge/CTEs-607D8B?style=for-the-badge)
+![CTEs](https://img.shields.io/badge/CTEs-607D8B?style=for-the-badge)
 ![Window Functions](https://img.shields.io/badge/Window_Functions-795548?style=for-the-badge)
 
 ---
 
-## 🤖 Machine Learning
+## 🤖 Machine Learning (Applied)
 
-![ML Pipeline](https://img.shields.io/badge/ML_Pipeline-4CAF50?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-009688?style=for-the-badge)
 ![Feature Scaling](https://img.shields.io/badge/Feature_Scaling-3F51B5?style=for-the-badge)
-![Feature Encoding](https://img.shields.io/badge/Feature_Encoding-9C27B0?style=for-the-badge)
-
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF5722?style=for-the-badge)
-![Polynomial Regression](https://img.shields.io/badge/Polynomial_Regression-FF7043?style=for-the-badge)
-![L1 L2](https://img.shields.io/badge/L1_L2_Regularization-795548?style=for-the-badge)
-![ElasticNet](https://img.shields.io/badge/ElasticNet-607D8B?style=for-the-badge)
-
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-9C27B0?style=for-the-badge)
-![Decision Tree](https://img.shields.io/badge/Decision_Tree-4CAF50?style=for-the-badge)
-![SVM](https://img.shields.io/badge/SVM-3F51B5?style=for-the-badge)
-![KNN](https://img.shields.io/badge/KNN-009688?style=for-the-badge)
-
-![Bias Variance](https://img.shields.io/badge/Bias_Variance_Tradeoff-795548?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random_Forest-2E7D32?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC407A?style=for-the-badge)
-
-![KMeans](https://img.shields.io/badge/KMeans-607D8B?style=for-the-badge)
-![DBSCAN](https://img.shields.io/badge/DBSCAN-3F51B5?style=for-the-badge)
-![HDBSCAN](https://img.shields.io/badge/HDBSCAN-9E9E9E?style=for-the-badge)
-
+![Regression Models](https://img.shields.io/badge/Regression_Models-FF5722?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-9C27B0?style=for-the-badge)
+![Clustering](https://img.shields.io/badge/Clustering-607D8B?style=for-the-badge)
 ![PCA](https://img.shields.io/badge/PCA-673AB7?style=for-the-badge)
-![Feature Selection](https://img.shields.io/badge/Feature_Selection-795548?style=for-the-badge)
-![GridSearchCV](https://img.shields.io/badge/GridSearchCV-FF9800?style=for-the-badge)
 ![Cross Validation](https://img.shields.io/badge/Cross_Validation-009688?style=for-the-badge)
+![GridSearchCV](https://img.shields.io/badge/GridSearchCV-FF9800?style=for-the-badge)
 
 ---
 
-## 🧠 Deep Learning 
+## 🧠 Deep Learning (Foundational)
 
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF9800?style=for-the-badge)
-![Perceptron](https://img.shields.io/badge/Perceptron-9E9E9E?style=for-the-badge)
-![MLP](https://img.shields.io/badge/MLP-607D8B?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-4CAF50?style=for-the-badge)
 ![RNN](https://img.shields.io/badge/RNN-3F51B5?style=for-the-badge)
-![Autoencoders](https://img.shields.io/badge/Autoencoders-795548?style=for-the-badge)
-![GANs](https://img.shields.io/badge/GANs-9C27B0?style=for-the-badge)
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -106,7 +101,8 @@
 
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -121,12 +117,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi" />
 </p>
 
-
 ---
+
 ## 📫 Connect With Me
 
 - **Email:** vatsalnegi412@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/vatsal-negi  
-- **Portfolio:** https://vatsal-portfolio-gamma.vercel.app
-- 
+- **Portfolio:** https://vatsal-portfolio-gamma.vercel.app  
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=VatsalNegi&icon=0&color=0)](https://visitcount.itsvg.in)
