@@ -1,124 +1,96 @@
-<!-- ================== HERO SECTION ================== -->
-
 <h1 align="center">Hi 👋, I'm Vatsal Negi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Analyst;SQL+%7C+Python+%7C+EDA;Statistics+%7C+Data+Visualization;Turning+Data+into+Meaningful+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=MCA+Student;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+EDA;Insight-driven+mindset" />
 </p>
 
 <p align="center">
-MCA Student • Aspiring Data Analyst • Insight-driven mindset
+📊 Exploring Data & Insights • 📈 Turning Data into Decisions
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3"/>
 
-<!-- ================== ABOUT ================== -->
+---
 
-## 👨‍💻 About Me
+## 🧠 Tech Stack (Data Analyst Focused)
 
-I am an aspiring **Data Analyst** with a strong foundation in **statistics, SQL, and Python**.  
-I enjoy working with data to uncover trends, patterns, and insights that support **better decision-making**.
+### 🐍 Programming & Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 
-I focus on:
-- Analytical thinking  
-- Clean and structured data analysis  
-- Insight-first approach rather than just coding  
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
+### 🗄️ Databases & Querying
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- ================== SKILLS DASHBOARD ================== -->
+---
 
-## 🧠 Skills Overview
+### 📊 Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-<table>
-<tr>
+---
 
-<td width="25%" align="center">
+### 🤖 Machine Learning (Analytics-Oriented)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🐍 Data Analysis  
-Python  
-Pandas  
-NumPy  
-SciPy  
+---
 
-</td>
+### 📈 Tools
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<td width="25%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3"/>
 
-### 🗄️ SQL  
-MySQL  
-Joins  
-CTEs  
-Window Functions  
+---
 
-</td>
-
-<td width="25%" align="center">
-
-### 📊 Visualization  
-Matplotlib  
-Seaborn  
-Plotly  
-
-</td>
-
-<td width="25%" align="center">
-
-### 📈 Tools  
-Excel  
-EDA  
-Statistics  
-
-</td>
-
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
-
-<!-- ================== WHAT I DO ================== -->
-
-## 🔍 What I Do
-
-✔ Analyze structured datasets  
-✔ Write business-focused SQL queries  
-✔ Perform Exploratory Data Analysis (EDA)  
-✔ Identify trends, patterns & anomalies  
-✔ Convert data findings into clear insights  
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
-
-<!-- ================== CURRENT FOCUS ================== -->
-
-## 🚧 Currently Focusing On
-
-🔹 Advanced SQL for analytics  
-🔹 Statistical analysis & hypothesis testing  
-🔹 Improving data storytelling skills  
-🔹 Interview-oriented analytics problem solving  
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
-
-<!-- ================== GITHUB STATS ================== -->
-
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VatsalNegi&show_icons=true&theme=github_dark&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VatsalNegi&theme=github_dark&show_icons=true&hide_border=true" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VatsalNegi&theme=github-dark&hide_border=true" />
+</p>
 
-<!-- ================== CONNECT ================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3"/>
+
+---
+
+## 🚀 About Me
+
+I am an aspiring **Data Analyst** with a strong foundation in  
+**statistics, SQL, and Python**.
+
+I enjoy working with data to:
+- uncover trends & patterns  
+- support data-driven decision making  
+- communicate insights clearly  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3"/>
+
+---
+
+## 🎯 Currently Focusing On
+
+- Advanced SQL for analytics  
+- Statistical analysis & hypothesis testing  
+- Data storytelling & visualization  
+- Interview-oriented analytics preparation  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3"/>
+
+---
 
 ## 📫 Connect With Me
 
-- 📧 Email: vatsalnegi412@gmail.com  
+- 📧 Email: **vatsalnegi412@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/vatsal-negi  
 - 🌐 Portfolio: https://vatsal-portfolio-gamma.vercel.app  
 
 <p align="center">
-✨ Focused on learning • Consistent growth • Data-driven mindset ✨
+✨ Consistent learning • Clean analysis • Data-driven mindset ✨
 </p>
