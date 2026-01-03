@@ -1,69 +1,124 @@
-<!-- README.md for your GitHub profile -->
-![Vatsal Negi - Data Analyst](assets/profile-header.svg)
+<!-- ================== HERO SECTION ================== -->
 
----
+<h1 align="center">Hi 👋, I'm Vatsal Negi</h1>
 
-### 👋 Hi — I'm Vatsal Negi  
-MCA | Aspiring Data Analyst — I turn raw data into clear business decisions.  
-I focus on SQL-driven analysis, Python (Pandas + visualization), and insight-first storytelling.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Analyst;SQL+%7C+Python+%7C+EDA;Statistics+%7C+Data+Visualization;Turning+Data+into+Meaningful+Insights" />
+</p>
 
----
+<p align="center">
+MCA Student • Aspiring Data Analyst • Insight-driven mindset
+</p>
 
-## 🔭 Focused Tech Stack
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)]()
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)]()
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
 
----
+<!-- ================== ABOUT ================== -->
 
-## 📊 GitHub Highlights
-<!-- dynamic stats (keep these) -->
-![Vatsal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VatsalNegi&theme=dark&hide_border=true&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi&theme=dark&hide_border=true)
+## 👨‍💻 About Me
 
----
+I am an aspiring **Data Analyst** with a strong foundation in **statistics, SQL, and Python**.  
+I enjoy working with data to uncover trends, patterns, and insights that support **better decision-making**.
 
-## ⭐ Featured Projects (animated previews)
+I focus on:
+- Analytical thinking  
+- Clean and structured data analysis  
+- Insight-first approach rather than just coding  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
+
+<!-- ================== SKILLS DASHBOARD ================== -->
+
+## 🧠 Skills Overview
+
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/VatsalNegi/sales-performance-analysis">
-        <img src="assets/gifs/sales_analysis.gif" alt="Sales Analysis" width="300"/>
-        <p><b>Sales Performance Analysis</b><br/>EDA • Revenue leakage • Recommendations</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/VatsalNegi/churn-prediction">
-        <img src="assets/gifs/churn_prediction.gif" alt="Churn Prediction" width="300"/>
-        <p><b>Customer Churn Prediction</b><br/>Data prep • Model • Interpretability</p>
-      </a>
-    </td>
-  </tr>
+<tr>
+
+<td width="25%" align="center">
+
+### 🐍 Data Analysis  
+Python  
+Pandas  
+NumPy  
+SciPy  
+
+</td>
+
+<td width="25%" align="center">
+
+### 🗄️ SQL  
+MySQL  
+Joins  
+CTEs  
+Window Functions  
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊 Visualization  
+Matplotlib  
+Seaborn  
+Plotly  
+
+</td>
+
+<td width="25%" align="center">
+
+### 📈 Tools  
+Excel  
+EDA  
+Statistics  
+
+</td>
+
+</tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
 
-## 📂 How I present projects
-Every repo contains:
-1. Problem statement (business context)  
-2. Dataset description & cleaning steps  
-3. EDA with visuals and clear insights  
-4. Jupyter notebooks + exported reports (.md or PDF)  
-5. Business recommendations (actionable)
+<!-- ================== WHAT I DO ================== -->
 
----
+## 🔍 What I Do
 
-## 📫 Contact
-- Email: vatsalnegi412@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/vatsal-negi
+✔ Analyze structured datasets  
+✔ Write business-focused SQL queries  
+✔ Perform Exploratory Data Analysis (EDA)  
+✔ Identify trends, patterns & anomalies  
+✔ Convert data findings into clear insights  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
 
-*Want me to convert one of your existing projects into a GIF preview + pro README? Reply with the repo name and I’ll give you the exact GIF frames + README content.*
-)
+<!-- ================== CURRENT FOCUS ================== -->
 
+## 🚧 Currently Focusing On
+
+🔹 Advanced SQL for analytics  
+🔹 Statistical analysis & hypothesis testing  
+🔹 Improving data storytelling skills  
+🔹 Interview-oriented analytics problem solving  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
+
+<!-- ================== GITHUB STATS ================== -->
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VatsalNegi&show_icons=true&theme=github_dark&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi&theme=github-dark&hide_border=true" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
+
+<!-- ================== CONNECT ================== -->
+
+## 📫 Connect With Me
+
+- 📧 Email: vatsalnegi412@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/vatsal-negi  
+- 🌐 Portfolio: https://vatsal-portfolio-gamma.vercel.app  
+
+<p align="center">
+✨ Focused on learning • Consistent growth • Data-driven mindset ✨
+</p>
