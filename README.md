@@ -73,7 +73,7 @@
 
 ---
 
-## 🤖 Machine Learning (Applied)
+## 🤖 Machine Learning 
 
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-009688?style=for-the-badge)
 ![Feature Scaling](https://img.shields.io/badge/Feature_Scaling-3F51B5?style=for-the-badge)
@@ -106,21 +106,16 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-## 📊 GitHub Stats
+
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=VatsalNegi&show_icons=true&theme=default&hide_border=true&cache_seconds=1800&title_color=000000&icon_color=000000&text_color=000000"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi&theme=default&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
+
 
 
 
