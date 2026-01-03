@@ -17,7 +17,7 @@
 
 ---
 
-## 🐍 Programming & Data Analysis (Advanced)
+## 🐍 Programming & Data Analysis 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OOP](https://img.shields.io/badge/OOPs-4CAF50?style=for-the-badge)
@@ -86,7 +86,7 @@
 
 ---
 
-## 🧠 Deep Learning (Foundational)
+## 🧠 Deep Learning 
 
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF9800?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-4CAF50?style=for-the-badge)
@@ -109,12 +109,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VatsalNegi&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VatsalNegi&show_icons=true&theme=default&hide_border=true&cache_seconds=1800&title_color=000000&icon_color=000000&text_color=000000"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi&theme=default&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 
 ---
