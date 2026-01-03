@@ -86,7 +86,7 @@
 
 ---
 
-## 🧠 Deep Learning (Foundational)
+## 🧠 Deep Learning 
 
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF9800?style=for-the-badge)
 ![Perceptron](https://img.shields.io/badge/Perceptron-9E9E9E?style=for-the-badge)
@@ -114,19 +114,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VatsalNegi&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VatsalNegi&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi" />
 </p>
 
----
 
+---
 ## 📫 Connect With Me
 
-![Email](https://img.shields.io/badge/Email-vatsalnegi412@gmail.com-red?style=for-the-badge)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Vatsal_Negi-blue?style=for-the-badge&logo=linkedin)
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)
-
+- **Email:** vatsalnegi412@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/vatsal-negi  
+- **Portfolio:** https://vatsal-portfolio-gamma.vercel.app
+- 
 
