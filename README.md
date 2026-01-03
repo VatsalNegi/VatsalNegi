@@ -106,16 +106,22 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VatsalNegi&show_icons=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VatsalNegi&show_icons=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ---
 
