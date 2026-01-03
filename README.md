@@ -109,17 +109,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=VatsalNegi&show_icons=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VatsalNegi&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalNegi&theme=default&hide_border=true" />
 </p>
 
 
